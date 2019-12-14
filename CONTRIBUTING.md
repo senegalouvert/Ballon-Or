@@ -23,7 +23,7 @@ Nous travaillons dans la mesure du possible avec des outils sous licence libre, 
 
 Nous essayons d'être pragmatique dans notre travail; le réseau de la connaissance ouverte est une "grande tente" où les participants sont les bienvenus indépendamment de leurs motivations spécifiques. Nous sommes enthousiastes, collaboratifs et inclusifs. Nous sommes engagés, sans complaisance. Nous ne sommes pas seulement des penseurs - nous voulons faire bouger les choses, construire, rechercher, former et apprendre, écriture et analyser.
 
-Le réseau Open Knowledge n'est pas la nôtre. Il appartient au peuple qui la compose. Nous reconnaissons cela avec les structures de gouvernance de la communauté, dans le respect de sa diversité et de l'expertise. Le réseau est un espace où tous les projets et les communautés ouvertes sont invités à trouver une maison.
+Le réseau Open Knowledge n'est pas le nôtre. Il appartient au peuple qui la compose. Nous reconnaissons cela avec les structures de gouvernance de la communauté, dans le respect de sa diversité et de l'expertise. Le réseau est un espace où tous les projets et les communautés ouvertes sont invités à trouver une maison.
 
 * ### Respect et tolérance
 Respect et tolérance sont des conditions préalables à notre travail, et indispensables pour travailler comme une communauté collaborative.
